@@ -1,1 +1,0 @@
-print('Fuctions for analysis')
